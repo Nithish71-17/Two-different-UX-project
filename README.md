@@ -4,7 +4,7 @@
 To design a mobile health app that assists chronic disease patients in tracking medications and symptoms, improving adherence and communication with healthcare providers.
 
 ---
-
+    
 ## PROBLEM STATEMENT  
 Patients managing chronic diseases need a way to track medication schedules and log symptoms because they often forget doses and find symptom reporting cumbersome, which results in poor health outcomes and ineffective treatment adjustments.
 
